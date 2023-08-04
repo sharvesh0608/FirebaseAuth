@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Auth</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">logout</string>
+</resources>
